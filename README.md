@@ -2,7 +2,10 @@
 
 Un smartwatch open-source accesibil, construit în jurul microcontrolerului **nRF52840**, cu afișaj **e-paper**, consum redus de energie și conectivitate **Bluetooth Low Energy**.
 
-![SmartWatch assembled](Images/Carcasa.png)
+<p align="center">
+  <img src="./Images/Carcasa.png" alt="Carcasa" width="48%">
+  <img src="./Images/Ceas_3D.png" alt="Ceas 3D" width="48%">
+</p>
 
 ## Diagramă Bloc
 
